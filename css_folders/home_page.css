@@ -1,0 +1,25 @@
+body{
+background-color:rgb(132, 124, 124) ;    
+background-image: url(me.jpg);
+background-repeat:no-repeat;
+background-position-x: center;
+background-position-y: center;
+
+}
+.nav{
+    color:white; 
+    text-align: baseline;
+    font-size: 50px;
+   
+
+}
+
+
+#Me{
+
+    color:white;
+    font-size: 75px;
+    font-family: serif;
+    justify-content: center;
+
+}
